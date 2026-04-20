@@ -27,8 +27,7 @@ An analysis of U.S. online retail business performance from 2019 to 2022, coveri
 
 ## 📊 Dashboard
 
-### Page 1 – Overview of Revenue
-<img width="623" height="865" alt="Dashboard1" src="https://github.com/user-attachments/assets/5f09cff3-b0a2-41ec-8110-85d815c97fb6" />
+### Dashboard 1 – Overview of Revenue
 
 A high-level view of overall business performance:
 - Core KPIs: Total revenue ~$2M, profit $286.4K, profit margin 12%, total quantity 38K units
@@ -38,9 +37,10 @@ A high-level view of overall business performance:
 - Top 5 highest-revenue products
 - Performance by customer segment (Consumer, Corporate, Home Office)
 - Impact of discounts on revenue and profit across years
+ <img width="623" height="865" alt="Dashboard1" src="https://github.com/user-attachments/assets/6aa8e79e-8e24-4d4b-8d3d-869c69598359" />
 
-### Page 2 – Regional Revenue Analysis
-<img width="1188" height="663" alt="Dashboard2" src="https://github.com/user-attachments/assets/06c8148f-9397-4954-bcff-340b806a2ac5" />
+
+### Dashboard 2 – Regional Revenue Analysis
 
 Geographic performance breakdown across the U.S.:
 - Revenue distribution across 4 regions (West, East, South, Central)
@@ -48,6 +48,7 @@ Geographic performance breakdown across the U.S.:
 - Profit and profit margin by region
 - Profit breakdown by region and product category
 - State-level revenue map
+<img width="1188" height="663" alt="Dashboard2" src="https://github.com/user-attachments/assets/cb3ef2c9-a427-486b-8502-4ece30262c54" />
 
 ---
 
